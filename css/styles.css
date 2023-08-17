@@ -78,8 +78,12 @@ body {
 .buttons:focus {
   background: #404bbf;
 }
+/* задний фон первой секции */
 .titel-style {
   background-color: #2e2f42;
+}
+.advantage-style {
+  color: #2e2f42;
 }
 .main_text {
 }

@@ -62,7 +62,7 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
-button {
+.buttons {
   color: #fff;
   font-size: 16px;
   font-weight: 500;
@@ -70,8 +70,8 @@ button {
   letter-spacing: 0.04em;
   cursor: pointer;
 }
-button:hover,
-button:focus {
+.buttons:hover,
+.buttons:focus {
   background: #404bbf;
 }
 .titel-style {

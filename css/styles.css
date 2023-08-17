@@ -4,19 +4,20 @@ body {
   font-size: 16px;
   line-height: 1, 5;
   letter-spacing: 0.02em;
-  color: #434445;
+  color: #434455;
 }
 .logotype {
-  color: #2e2f42;
-  font-family: Raleway;
+  color: #4d5ae5;
+  font-family: Raleway, sans-serif;
+  font-weight: 700;
   font-size: 18px;
-  line-height: 1, 167;
+  line-height: 1, 17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
 }
 .logotype .name {
-  color: #4d5ae5;
+  color: #2e2f42;
 }
 a {
   color: #2e2f42;
@@ -57,9 +58,6 @@ button {
   font-weight: 500;
   line-height: 1, 5;
   letter-spacing: 0.04em;
-  border-radius: 4px;
-  background: #4d5ae5;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 button:hover,
 button:focus {

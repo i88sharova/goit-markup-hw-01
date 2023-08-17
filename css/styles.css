@@ -32,10 +32,9 @@ body {
 
 .address-text-fontstyle {
   font-style: normal;
-  color: #434455;
 }
 .contact-decoration {
-  color: #2e2f42;
+  color: #434455;
   text-decoration: none;
   font-weight: 400;
 }
@@ -50,6 +49,8 @@ h1 {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
+  color: #ffffff;
 }
 h2 {
   font-size: 36px;
@@ -72,4 +73,7 @@ button {
 button:hover,
 button:focus {
   background: #404bbf;
+}
+.titel-style {
+  background-color: #2e2f42;
 }

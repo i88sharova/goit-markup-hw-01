@@ -20,7 +20,7 @@ body {
   color: #2e2f42;
 }
 .link-nav {
-  color: #434455;
+  color: #2e2f42;
   text-decoration: none;
   font-weight: 500;
 }
@@ -32,6 +32,7 @@ body {
 
 .address-text-fontstyle {
   font-style: normal;
+  color: #434455;
 }
 .contact-decoration {
   color: #2e2f42;

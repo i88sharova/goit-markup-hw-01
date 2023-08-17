@@ -45,19 +45,19 @@ body {
   text-decoration: underline;
 }
 
-h1 {
+.h1-text {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #ffffff;
 }
-h2 {
+.h2-text {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
 }
-h3 {
+.h3-text {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;

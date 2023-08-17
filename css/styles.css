@@ -54,8 +54,10 @@ body {
 }
 .hh-text {
   font-size: 36px;
+  font-weight: 500;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .hhh-text {
   font-size: 20px;
@@ -78,4 +80,6 @@ body {
 }
 .titel-style {
   background-color: #2e2f42;
+}
+.main_text {
 }

@@ -102,3 +102,6 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
+.team-member {
+  background-color: #ffffff;
+}

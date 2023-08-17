@@ -2,7 +2,7 @@ body {
   font-family: 'Roboto', sans-serif;
   background: #fff;
   font-size: 16px;
-  line-height: 1, 5;
+  line-height: 1 5;
   letter-spacing: 0.02em;
   color: #434455;
 }
@@ -11,7 +11,7 @@ body {
   font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1, 17;
+  line-height: 1 17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
@@ -39,24 +39,24 @@ a:focus {
 
 h1 {
   font-size: 56px;
-  line-height: 1, 0714;
+  line-height: 1 0714;
   letter-spacing: 0.02em;
 }
 h2 {
   font-size: 36px;
-  line-height: 1, 1111;
+  line-height: 1 1111;
   letter-spacing: 0.02em;
 }
 h3 {
   font-size: 20px;
-  line-height: 1, 2;
+  line-height: 1 2;
   letter-spacing: 0.02em;
 }
 button {
   color: #fff;
   font-size: 16px;
   font-weight: 500;
-  line-height: 1, 5;
+  line-height: 1 5;
   letter-spacing: 0.04em;
 }
 button:hover,
